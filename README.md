@@ -1,5 +1,5 @@
 # Alexa Tea Facts Skill
-![Logo](http://i.imgur.com/6bJajCW.png)
+<img src="http://i.imgur.com/6bJajCW.png" alt="logo" width="250px" height="250px">
 
 [![Made with Serverless](https://img.shields.io/badge/serverless-⚡-yellow.svg?style=flat-square)](https://serverless.io) [![Norfolk JS Inspired](https://img.shields.io/badge/NorfolkJS-inspired-f3df49.svg?style=flat-square)](https://norfolkjs.org)
 
